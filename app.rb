@@ -6,4 +6,8 @@ class MyCLIProject
   def multiply(a, b)
     a * b
   end
+
+  def subtract(a, b)
+    a - b
+  end
 end
